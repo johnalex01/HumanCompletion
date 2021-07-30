@@ -13,11 +13,9 @@ if __name__ == '__main__':
     #     print(data['pre_10'].shape)
     #     d = -1
 
-    ss = Processor()
-    #ss = BiProcessor()
-    #ss = BiProcessor_noRes()
-    
-    #ss = BiProcessor_for_single_side_attention()
+    #ss = Processor()
+    ss = BiProcessor()
+
     ss.train_and_test()
 
 
