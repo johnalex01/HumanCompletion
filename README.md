@@ -6,9 +6,8 @@ Code for CADCG&amp;2021
 
 ## 1. 模型结构
 
-<center>
-    <img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"  src=" https://z3.ax1x.com/2021/07/30/WOBkN9.png" width = "95%" alt=""/>
-        </center>
+![](https://z3.ax1x.com/2021/07/30/WOBkN9.png)
+
 
 ## 2. 数据集
 
